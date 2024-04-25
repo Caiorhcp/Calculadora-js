@@ -1,1 +1,1 @@
-Projeto de calculadora simples ultilizando JavaScript.
+Project done in the college classroom. A simple calculator using JavaScript.
